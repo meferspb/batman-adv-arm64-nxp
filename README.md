@@ -9,3 +9,11 @@ For example, for raspberry, you will need to give the command:
 ```
 apt install linux-headers
 ```
+
+#Install
+```
+git clone https://github.com/meferspb/batman-adv-arm64-nxp.git
+cd batman-adv-arm64-nxp
+chmod +x batman-adv-2022-3.sh
+./batman-adv-2022-3.sh
+```
